@@ -78,6 +78,6 @@
    &kp LCTRL &trans   &trans &trans   &trans   &trans                           &trans &kp 4 &kp 5 &kp 6 &kp PLUS &kp DEL
    &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR  &trans &kp 1 &kp 2 &kp 3 &kp RET &kp SLASH
                     	     &kp LGUI &trans   &kp SPACE                        &kp RET   &trans    &kp 0
-                }
-        };
+                        >;
+                };
 };
